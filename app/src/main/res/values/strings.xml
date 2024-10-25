@@ -2,5 +2,5 @@
     <string name="app_name">HotelBooking</string>
     <string name="login">Login</string>
     <string name="signup">Register</string>
-    <string name="hotelbooking">HotelBooking</string>
+    <string name="HotelBooking">HotelBooking</string>
 </resources>
