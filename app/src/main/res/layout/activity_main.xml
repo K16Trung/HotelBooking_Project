@@ -33,7 +33,7 @@
             android:id="@+id/tv_Appname"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/hotelbooking"
+            android:text="@string/HotelBooking"
             android:gravity="center"
             android:textSize="43sp"
             android:textColor="#fff"
